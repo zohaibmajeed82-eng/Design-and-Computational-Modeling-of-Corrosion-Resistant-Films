@@ -8,8 +8,8 @@ Department of Metallurgical & Materials Engineering, University of Engineering &
 ---
 
 ## 📄 Documents
-- **[Full Report (PDF)](Corrosion-Resistant_slides.pdf)**
-- **[Presentation Slides (PDF)](report.pdf)**
+- **[Full Report (PDF)](report.pdf)**
+- **[Presentation Slides (PDF)](Corrosion-Resistant_slides.pdf)**
 
 ## Overview
 Magnesium is the lightest structural metal (1.74 g/cm³), which makes it attractive for aerospace,
